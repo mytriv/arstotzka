@@ -1,13 +1,11 @@
 
 body{
     background-image: url(../img/background.jpg);
-
 }
 #indev{
     margin-left: 30%;
 }
 #passport{
-    width: 500px
     position: relative;
     color: #a29491;
     margin-left: -20px;
@@ -39,21 +37,19 @@ h1{
     text-shadow: 0 0 5px #8b0000;
     box-shadow: 0 0 7px #3C4A39;
     font-size: 30px;
+    margin-left: 27%;
     margin-top: 25px;
 }
-#content{
-    text-align: center;
-}
 #generate{
-
+    margin-left: 40%;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .ghost-button:hover, .ghost-button:active {
-    box-shadow:0 0 30px ;
-    color: #8b0000;
-    transition: 0.4s;
+ box-shadow:0 0 30px ;
+ color: #8b0000;
+   transition: 0.4s;
 }
 p{
     text-align: center;
